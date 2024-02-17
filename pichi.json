@@ -1,0 +1,24 @@
+{
+    "name": "PICHI",
+    "symbol": "PICH",
+    "image": "https://sapphire-large-bird-412.mypinata.cloud/ipfs/QmY3EzTsySZwBcpD4SK9xYoyUcpfqBTneFLzvd4kjnvfqy",
+	"attributes": [],
+    "properties": {
+        "files": [{
+                "uri": "https://sapphire-large-bird-412.mypinata.cloud/ipfs/QmY3EzTsySZwBcpD4SK9xYoyUcpfqBTneFLzvd4kjnvfqy",
+                "type": "image/png"
+            }
+        ]
+    },
+    "description": "PICHI on a Solana blockchain can be a game-changer for the DeFi world. With Solana's high-speed transactions, low fees, and growing ecosystem, PICHI coin has the potential to become a top player in the decentralized finance space. By leveraging Solana's unique features and tapping into its expanding community, PICHI coin can offer users a fast, secure, and cost-effective way to engage in DeFi activities. So get ready for a thrilling ride with PICHI coin on Solana!",
+    "extensions": {
+        "website": "https://pichicoin.com",
+        "twitter": "https://x.com/pichicoin",
+        "telegram": "Telegram: https://t.me/pichi_portal"
+    },
+    "tags": [pichi],
+    "creator": {
+        "name": "TOKENGUYS",
+        "site": "https://www.tokenguys.space"
+    }
+}
